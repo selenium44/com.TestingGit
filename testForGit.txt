@@ -1,0 +1,3 @@
+The is a sample for testing GIT usage
+welcome to GIT seesion
+
